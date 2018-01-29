@@ -2,8 +2,9 @@
 
 Table of Contents:
 
-- [Introduction](#introduction)
 - [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+	- [Development](#development)
 - [API Security](#api-security)
 - [API Error Reporting](#api-error-reporting)
 - [Pagination](#pagination)
@@ -14,6 +15,7 @@ Table of Contents:
 - [Authentication.md](Authentication.md) for methods related to user authentication, password recovery, etc.
 - [Banking.md](Banking.md) for bank accounts & ACH transfers methods
 - [Order.md](Order.md) for order-related functions (placing, cancelling, listing previous orders, etc.)
+- [Options.md](Options.md) for options related endpoints
 - [Quote.md](Quote.md) for stock quotes
 - [Fundamentals.md](Fundamentals.md) for basic, fundamental data
 - [Instrument.md](Instrument.md) for internal reference to financial instruments
@@ -22,6 +24,8 @@ Table of Contents:
 - [Settings.md](Settings.md) covers notifications and other settings
 - [Markets.md](Markets.md) describes the API for getting basic info about specific exchanges themselves
 - [Referrals.md](Referrals.md) is all about account referrals
+- [Statistics.md](Statistics.md) exposes the new social/statistical endpoints
+- [Tags.md](Tags.md) exposes the new categorizing endpoints
 
 Things I have yet to organize are in [Unsorted.md](Unsorted.md)
 
@@ -32,6 +36,10 @@ Things I have yet to organize are in [Unsorted.md](Unsorted.md)
 Before I go too far, I must say that this is a big, messy work in progress. I'll continue to update this as I figure more out. Sections marked TODO are in my head but I haven't found the time to describe them yet. Work in progress and all.
 
 Oh, and I do not work with or for Robinhood Financial, LLC.
+
+## Development
+
+The owners of the [/r/Robinhood subreddit](https://reddit.com/r/Robinhood/) have invited us to join their [official Discord server](https://discord.gg/robinhood) where a new developer chat room has been created. You'll find me idle there most of the time.
 
 # API Security
 
