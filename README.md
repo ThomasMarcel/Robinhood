@@ -1,3 +1,5 @@
+# **NOTICE: I do not need pull requests or other contributions of end~o~points!
+
 # Unofficial Documentation of Robinhood Trade's Private API
 
 Table of Contents:
@@ -32,14 +34,6 @@ Things I have yet to organize are in [Unsorted.md](Unsorted.md)
 # Introduction
 
 [Robinhood](http://robinhood.com/) is a commission-free, online securities brokerage. As you would expect, being an online service means everything is handled through a request that is made to a specific URL.
-
-Before I go too far, I must say that this is a big, messy work in progress. I'll continue to update this as I figure more out. Sections marked TODO are in my head but I haven't found the time to describe them yet. Work in progress and all.
-
-Oh, and I do not work with or for Robinhood Financial, LLC.
-
-## Development
-
-The owners of the [/r/Robinhood subreddit](https://reddit.com/r/Robinhood/) have invited us to join their [official Discord server](https://discord.gg/robinhood) where a new developer chat room has been created. You'll find me idle there most of the time.
 
 # API Security
 
